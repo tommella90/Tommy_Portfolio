@@ -32,3 +32,6 @@ Plus, it contains many more features, good both for data visualization and data 
 ### website
 https://tommella90.github.io/Tommy_Portfolio/
 
+
+![My Image]("C:/Users/tomma/Documents/job_search/favicons/python.png")
+
