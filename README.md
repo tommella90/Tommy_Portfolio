@@ -1,4 +1,5 @@
-# Tommy_Portfolio
+# MY PORTFOLIO
+Showing some of my recent projects 
 
 
 # 1) ROCK SCISSOR PAPER WITH ML AND MEDIAPIPE 
