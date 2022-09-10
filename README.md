@@ -27,7 +27,10 @@ Enjoy!
 ## 2) Scatterplot generator with Touchdesigner
 ### The projcet contains a scatterplot generator in a touchdesigner file. Without any cooding needed, you only need to upload a csv file, write down the x and y variables, and it's done. 
 Plus, it contains many more features, good both for data visualization and data exploration. 
-<img src="https://github.com/tommella90/tommella90/blob/main/images/part1.mov" width="200" height="200">
+
+https://user-images.githubusercontent.com/66441052/189480544-3bb89bbe-efc7-4660-9404-c6fd262ebcda.mov
+
+
 
 #### 1) Outliers 
 
