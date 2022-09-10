@@ -9,7 +9,7 @@
 ### How 
 #### I used Mediapipe API to transform video-frames into landmarks. This translates every image/frame into a group of coordinates. In order to train the model, I asked people to send me videos of them doing rock, scissor and paper (separatly), that then I translated in coordiantes with Mediapipe. This gave me classified groups of data that I used to train various ML models. Aftern training them, I uploaded in Toocudesigner, This allows me to transform every frame (ideally, it runs at 5fps) into an information: rock, scissor or paper.
 
-![Drag Racing](rsp.png)
+![Work flow](rsp.png)
 
 
 ### Game 
@@ -30,4 +30,7 @@ Plus, it contains many more features, good both for data visualization and data 
 
 ### website
 https://tommella90.github.io/Tommy_Portfolio/
+
+
+![My Image]("C:/Users/tomma/Documents/job_search/favicons/python.png")
 
