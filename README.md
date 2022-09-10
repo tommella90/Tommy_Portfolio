@@ -36,7 +36,3 @@ https://user-images.githubusercontent.com/66441052/189480544-3bb89bbe-efc7-4660-
 
 
 ### website
-https://tommella90.github.io/Tommy_Portfolio/
-
-
-![My Image]("C:/Users/tomma/Documents/job_search/favicons/python.png")
