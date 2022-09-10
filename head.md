@@ -2,13 +2,12 @@
 # 1) ROCK SCISSOR PAPER WITH ML AND MEDIAPIPE 
 (IRONHACK DATA ANALITICS BOOTCAMP'S FINAL PROJECT)
 ## Play rock scissor paper inputing the move through the camera
-### Desccription
+### Description
 #### I trained ML classification alghorithms in order to recognize rock, scissor or paper through the camera. By showing your hand-move to the camera, it will recognize wich move you current move. 
 [insert video]
 
 ### How 
 #### I used Mediapipe API to transform video-frames into landmarks. This translates every image/frame into a group of coordinates. In order to train the model, I asked people to send me videos of them doing rock, scissor and paper (separatly), that then I translated in coordiantes with Mediapipe. This gave me classified groups of data that I used to train various ML models. Aftern training them, I uploaded in Toocudesigner, This allows me to transform every frame (ideally, it runs at 5fps) into an information: rock, scissor or paper.
-diocane
 
 ![Drag Racing](rsp.png)
 
