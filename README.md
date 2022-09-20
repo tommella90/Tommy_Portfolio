@@ -15,8 +15,7 @@ diocane
 
 <img src="rsp.png" width="70" height="70">
 
-
-#### Game 
+#### Game
 I created a basic game as a demo. By toggling GameMode "ON", you can play rock, scissor, paper against the CPU (CPU moves are random). Since the move-recognition is not 100% perfect, to actually input your move you need to keep it stand for a few seconds (showed by the colored bars in the left-top). 
 Enjoy!
 
@@ -28,16 +27,19 @@ Enjoy!
 ### The projcet contains a scatterplot generator in a touchdesigner file. Without any cooding needed, you only need to upload a csv file, write down the x and y variables, and it's done. 
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
+<video src="https://user-images.githubusercontent.com/66441052/189490696-4e4c92e6-3488-4e85-a92e-2e0ee0017fd1.mp4" width="300" height="200">
+</video>  
+
+## 3) Predicting sexual discrimination 
+I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
+![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
+Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
 
 
-https://user-images.githubusercontent.com/66441052/189482238-5dfd97ea-3951-4595-84c6-7f2c3419e4e3.mp4
 
+### 4) Song recommender with Spotipy API
+I use unsupervised machine learning to create a song recommendation system with Spotify        
+<video src="https://user-images.githubusercontent.com/66441052/190932717-a2cc9244-8fab-458a-b40f-00dba5cf0743.mp4" width="300" height="200">
+</video>
+Fine the notebooks [here](https://github.com/tommella90/SongRecommender)
 
-
-
-
-
-#### 1) Outliers 
-
-
-### website
