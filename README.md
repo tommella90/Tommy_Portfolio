@@ -1,5 +1,5 @@
 # MY PORTFOLIO
-Showing some of my recent projects 
+Some of my recent projects 
 
 
 ## 1) ROCK SCISSOR PAPER WITH ML AND MEDIAPIPE 
@@ -7,7 +7,6 @@ Showing some of my recent projects
 ### Play rock scissor paper inputing the move through the camera
 #### Desccription
 I trained ML classification alghorithms in order to recognize rock, scissor or paper through the camera. By showing your hand-move to the camera, it will recognize wich move you current move. 
-[insert video]
 
 https://user-images.githubusercontent.com/66441052/191326791-2c56c4a6-747c-4e10-9ddd-66a5cb3b01c3.mp4
 
@@ -21,7 +20,6 @@ Enjoy!
 
 https://user-images.githubusercontent.com/66441052/191326820-1a49d55f-9f2c-413d-ba1c-f8c14f9626dd.mp4
 
-
 Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
 
@@ -31,11 +29,11 @@ Plus, it contains many more features, good both for data visualization and data 
 
 https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-87b6-0c2f44ed841e.mp4
  
+ 
 ## 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
 ![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
 Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
-
 
 
 ### 4) Song recommender with Spotipy API
