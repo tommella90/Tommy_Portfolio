@@ -4,8 +4,8 @@ Some of my recent projects
 
 ## 1) ROCK SCISSOR PAPER WITH ML AND MEDIAPIPE 
 (IRONHACK DATA ANALITICS BOOTCAMP'S FINAL PROJECT)
-### Play rock scissor paper inputing the move through the camera
-#### Desccription
+### Play rock scissor paper with computer vision
+#### Description
 I trained ML classification alghorithms in order to recognize rock, scissor or paper through the camera. By showing your hand-move to the camera, it will recognize wich move you current move. 
 
 https://user-images.githubusercontent.com/66441052/191326791-2c56c4a6-747c-4e10-9ddd-66a5cb3b01c3.mp4
@@ -28,7 +28,8 @@ Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recogn
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
 https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-87b6-0c2f44ed841e.mp4
- 
+
+Open source [here](https://github.com/tommella90/Scatterplot-generator-Touchdesigner)
  
 ## 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
