@@ -19,7 +19,9 @@ diocane
 I created a basic game as a demo. By toggling GameMode "ON", you can play rock, scissor, paper against the CPU (CPU moves are random). Since the move-recognition is not 100% perfect, to actually input your move you need to keep it stand for a few seconds (showed by the colored bars in the left-top). 
 Enjoy!
 
-[insert video]
+https://user-images.githubusercontent.com/66441052/191326221-355098d1-72bc-48ec-9b14-f1a6968bd74a.mp4
+
+
 
 
 
