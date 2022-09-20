@@ -11,18 +11,14 @@ I trained ML classification alghorithms in order to recognize rock, scissor or p
 
 #### How 
 I used Mediapipe API to transform video-frames into landmarks. This translates every image/frame into a group of coordinates. In order to train the model, I asked people to send me videos of them doing rock, scissor and paper (separatly), that then I translated in coordiantes with Mediapipe. This gave me classified groups of data that I used to train various ML models. Aftern training them, I uploaded in Toocudesigner, This allows me to transform every frame (ideally, it runs at 5fps) into an information: rock, scissor or paper.
-diocane
-
-<img src="rsp.png" width="70" height="70">
 
 #### Game
 I created a basic game as a demo. By toggling GameMode "ON", you can play rock, scissor, paper against the CPU (CPU moves are random). Since the move-recognition is not 100% perfect, to actually input your move you need to keep it stand for a few seconds (showed by the colored bars in the left-top). 
 Enjoy!
 
-https://user-images.githubusercontent.com/66441052/191326221-355098d1-72bc-48ec-9b14-f1a6968bd74a.mp4
+https://user-images.githubusercontent.com/66441052/191326527-6da648e8-70dd-414f-9377-6b2172f291c6.mp4
 
-
-
+Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
 
 ## 2) Scatterplot generator with Touchdesigner
