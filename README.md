@@ -24,7 +24,7 @@ Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recogn
 
 
 ## 2) Scatterplot generator with Touchdesigner
-### The projcet contains a scatterplot generator in a touchdesigner file. Without any cooding needed, you only need to upload a csv file, write down the x and y variables, and it's done. 
+### The projcet contains a scatterplot generator in a touchdesigner file. Upload a csv file, write down the x and y variables, and it's done (no code needed). 
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
 https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-87b6-0c2f44ed841e.mp4
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-
 Open source [here](https://github.com/tommella90/Scatterplot-generator-Touchdesigner)
  
 ## 3) Predicting sexual discrimination 
-I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
+I use Harvard University Implictit Association Test data to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
 ![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
 Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
 
@@ -41,5 +41,5 @@ Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-di
 I use unsupervised machine learning to create a song recommendation system with Spotify        
 <video src="https://user-images.githubusercontent.com/66441052/190932717-a2cc9244-8fab-458a-b40f-00dba5cf0743.mp4" width="300" height="200">
 </video>
-Fine the notebooks [here](https://github.com/tommella90/SongRecommender)
+Find the notebooks [here](https://github.com/tommella90/SongRecommender)
 
