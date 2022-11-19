@@ -44,7 +44,7 @@ Find the notebooks [here](https://github.com/tommella90/SongRecommender)
 
 
 ## ACADEMIC WORKS AND PUBLICATIONS 
-PublicationS
+Publications
 - “The creation and resolution of working hours mismatches: the role of personality traits”, Ramella. MIMEO.
 - “Health and unemployment: personality traits as resilience factors”, Ramella. MIMEO.
 - “Working hours preferences and mismatches: does personality matter?”, Ramella. MIMEO.
