@@ -44,18 +44,18 @@ Find the notebooks [here](https://github.com/tommella90/SongRecommender)
 
 
 ## ACADEMIC WORKS AND PUBLICATIONS 
-Publications
-•	“The creation and resolution of working hours mismatches: the role of personality traits”, Ramella. MIMEO.
-•	“Health and unemployment: personality traits as resilience factors”, Ramella. MIMEO.
-•	“Working hours preferences and mismatches: does personality matter?”, Ramella. MIMEO.
+PublicationS
+- “The creation and resolution of working hours mismatches: the role of personality traits”, Ramella. MIMEO.
+- “Health and unemployment: personality traits as resilience factors”, Ramella. MIMEO.
+- “Working hours preferences and mismatches: does personality matter?”, Ramella. MIMEO.
 
 Work in progress
-•	“The geography of trade before and after the Great Recession”, with Laura Resmini and Luca Bettarelli
-•	“The effect of Youth Guarantee on youth employment”, with Laura Resmini and Simona Comi
+- “The geography of trade before and after the Great Recession”, with Laura Resmini and Luca Bettarelli
+- “The effect of Youth Guarantee on youth employment”, with Laura Resmini and Simona Comi
 
 Third-parties reports 
-• LA FORMAZIONE DEI TECNICI SPECIALIZZATI IN LOMBARDIA: [link](https://www.consiglio.regione.lombardia.it/wps/wcm/connect/53d1bc0c-bce1-47fb-9b80-c0f442d4209c/MV_23_ITS_Rapporto_finale_28apr2021.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-53d1bc0c-bce1-47fb-9b80-c0f442d4209c-nB5MPt5)
-• La Garanzia può fare la differenza? Risultati del programma Garanzia Giovani in Lombardia: [link](https://www.consiglio.regione.lombardia.it/wps/wcm/connect/0139ff5a-66f2-4c00-a169-d408ce2755bc/MV_27_GaranziaGiovani_RapportoFinale_17mag2022.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-0139ff5a-66f2-4c00-a169-d408ce2755bc-o5I9Cqb)
+- LA FORMAZIONE DEI TECNICI SPECIALIZZATI IN LOMBARDIA: [link](https://www.consiglio.regione.lombardia.it/wps/wcm/connect/53d1bc0c-bce1-47fb-9b80-c0f442d4209c/MV_23_ITS_Rapporto_finale_28apr2021.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-53d1bc0c-bce1-47fb-9b80-c0f442d4209c-nB5MPt5)
+- La Garanzia può fare la differenza? Risultati del programma Garanzia Giovani in Lombardia: [link](https://www.consiglio.regione.lombardia.it/wps/wcm/connect/0139ff5a-66f2-4c00-a169-d408ce2755bc/MV_27_GaranziaGiovani_RapportoFinale_17mag2022.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-0139ff5a-66f2-4c00-a169-d408ce2755bc-o5I9Cqb)
 
 
 
