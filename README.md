@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/66441052/191326820-1a49d55f-9f2c-413d-
 Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
 
-## Scatterplot generator with Touchdesigner
+## SCATTERPLOT GENERATOR WITH TOUCHDESIGNER
 ### The projcet contains a scatterplot generator in a touchdesigner file. Upload a csv file, write down the x and y variables, and it's done (no code needed). 
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
@@ -45,7 +45,6 @@ Find the notebooks [here](https://github.com/tommella90/SongRecommender)
 
 ## ACADEMIC WORKS AND PUBLICATIONS 
 Publications
-
 •	“The creation and resolution of working hours mismatches: the role of personality traits”, Ramella. MIMEO.
 •	“Health and unemployment: personality traits as resilience factors”, Ramella. MIMEO.
 •	“Working hours preferences and mismatches: does personality matter?”, Ramella. MIMEO.
