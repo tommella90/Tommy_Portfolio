@@ -17,6 +17,9 @@ https://user-images.githubusercontent.com/66441052/217084150-5c4615cd-ceb6-4b20-
 ____________________________
 ## 2) SONG RECOMMENDER WITH SPOTIPY API
 I use unsupervised machine learning to create a song recommendation system with Spotify    
+#
+![logo](https://user-images.githubusercontent.com/66441052/220183668-bafd06c6-7404-44e5-ae40-c1e221344cc1.png)
+#
 
 **App available here**:
 
@@ -46,13 +49,16 @@ You can choose a few parameters (number of samples, slope, learning rate, initia
 ____________________________
 ## 4) PREDICTING SEXUAL DISCRIMINATION 
 I use Harvard University Implictit Association Test data to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
-![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
+
+![ols_coeff_ci](https://user-images.githubusercontent.com/66441052/220183812-a640a604-b656-4110-a31a-9292d66818f3.png)
+
 
 **Github repo here**:
 
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Predicting-sexual-discrimination)
 ________________________
-____
+
+
 ## 5) SCATTERPLOT GENERATOR WITH TOUCHDESIGNER
 ### The projcet contains a scatterplot generator in a touchdesigner file. Upload a csv file, write down the x and y variables, and it's done (no code needed). 
 Plus, it contains many more features, good both for data visualization and data exploration. 
