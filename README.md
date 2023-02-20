@@ -8,8 +8,9 @@ ____________________________
 I trained ML classification alghorithms that recognizes rock, scissor or paper through the camera. By showing your hand-move to the camera, it will recognize wich your current move. 
 
 https://user-images.githubusercontent.com/66441052/217084150-5c4615cd-ceb6-4b20-a16e-5c895629cebe.mp4
+#
 
-Github repo here:
+**Github repo here**:
 
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
@@ -17,10 +18,11 @@ ____________________________
 ## 2) SONG RECOMMENDER WITH SPOTIPY API
 I use unsupervised machine learning to create a song recommendation system with Spotify    
 
-App available here:
-[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/logo_td.0.jpg" width="500" height="100">](https://github.com/tommella90/SongRecommender)
+**App available here**:
 
-Github repo here:
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/logo_td.0.jpg" width="500" height="100">](https://tommella90-songrecommender-app-recommender-kbuo63.streamlit.app/)
+
+**Github repo here**:
 
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/SongRecommender)
 
@@ -36,6 +38,9 @@ You can choose a few parameters (number of samples, slope, learning rate, initia
 - The loss function 
 - The current gradient descente and global minima in 2D and 3D
 
+
+**Github repo here**:
+
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Gradient-descent-Linear-Regression)
 
 ____________________________
@@ -43,17 +48,18 @@ ____________________________
 I use Harvard University Implictit Association Test data to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
 ![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
 
-Github repo here:
+**Github repo here**:
 
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Predicting-sexual-discrimination)
-____________________________
+________________________
+____
 ## 5) SCATTERPLOT GENERATOR WITH TOUCHDESIGNER
 ### The projcet contains a scatterplot generator in a touchdesigner file. Upload a csv file, write down the x and y variables, and it's done (no code needed). 
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
 https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-87b6-0c2f44ed841e.mp4
  
-Github repo here:
+**Github repo here**:
 
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Scatterplot-generator-Touchdesigner)
 
