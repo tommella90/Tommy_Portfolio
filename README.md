@@ -1,6 +1,7 @@
 # MY PORTFOLIO
 Some of my recent projects 
 
+____________________________
 ## 1) ROCK SCISSOR PAPER WITH ML AND MEDIAPIPE 
 ### (IRONHACK DATA ANALITICS BOOTCAMP'S FINAL PROJECT)
 ### Play rock scissor paper with computer vision
@@ -8,10 +9,23 @@ I trained ML classification alghorithms that recognizes rock, scissor or paper t
 
 https://user-images.githubusercontent.com/66441052/217084150-5c4615cd-ceb6-4b20-a16e-5c895629cebe.mp4
 
-Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
+Github repo here:
 
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
-## 2) GRADIENT DESCENT VISUALIZATION WITH TOUCHDESIGNER 
+____________________________
+## 2) SONG RECOMMENDER WITH SPOTIPY API
+I use unsupervised machine learning to create a song recommendation system with Spotify    
+
+App available here:
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/logo_td.0.jpg" width="500" height="100">](https://github.com/tommella90/SongRecommender)
+
+Github repo here:
+
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/SongRecommender)
+
+____________________________
+## 3) GRADIENT DESCENT VISUALIZATION WITH TOUCHDESIGNER 
 ### It shows how the coefficient and the intercepts adjusts through the epochs
 
 https://user-images.githubusercontent.com/66441052/217084653-c0c2ae47-c740-430f-bd76-4637ea4ec73a.mp4
@@ -22,35 +36,30 @@ You can choose a few parameters (number of samples, slope, learning rate, initia
 - The loss function 
 - The current gradient descente and global minima in 2D and 3D
 
-Full project [here](https://user-images.githubusercontent.com/66441052/217083263-2b44e20b-6288-4c44-945f-bf6792032eb0.mp4)
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Gradient-descent-Linear-Regression)
 
-
-## 3) PREDICTING SEXUAL DISCRIMINATION 
+____________________________
+## 4) PREDICTING SEXUAL DISCRIMINATION 
 I use Harvard University Implictit Association Test data to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
 ![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
 
-Notebook [here](https://github.com/tommella90/Predicting-sexual-discrimination)
+Github repo here:
 
-
-## 4) SONG RECOMMENDER WITH SPOTIPY API
-I use unsupervised machine learning to create a song recommendation system with Spotify        
-<video src="https://user-images.githubusercontent.com/66441052/190932717-a2cc9244-8fab-458a-b40f-00dba5cf0743.mp4" width="300" height="200">
-</video>
-Notebook [here](https://github.com/tommella90/SongRecommender)
-
-
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Predicting-sexual-discrimination)
+____________________________
 ## 5) SCATTERPLOT GENERATOR WITH TOUCHDESIGNER
 ### The projcet contains a scatterplot generator in a touchdesigner file. Upload a csv file, write down the x and y variables, and it's done (no code needed). 
 Plus, it contains many more features, good both for data visualization and data exploration. 
 
 https://user-images.githubusercontent.com/66441052/191326662-39af976e-0913-44a4-87b6-0c2f44ed841e.mp4
-
-Find it [here](https://github.com/tommella90/Scatterplot-generator-Touchdesigner)
  
- 
+Github repo here:
+
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Scatterplot-generator-Touchdesigner)
 
 
 
+___________________________________________________
 
 ## ACADEMIC WORKS AND PUBLICATIONS 
 Publications
