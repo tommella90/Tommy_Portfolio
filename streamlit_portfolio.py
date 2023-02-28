@@ -15,12 +15,6 @@ profile_pic = current_dir / "assets" / "me4.jpg"
 
 
 PAGE_ICON = ":🧊:"
-NAME = "Tommaso Ramella"
-DESCRIPTION = """
-Data scientist & postdoctoral researcher in economics
-"""
-EMAIL = "tommaso.ramella90@gmail.com"
-
 st.set_page_config(layout="wide",
                    initial_sidebar_state="expanded",
                    page_title="PORTFOLIO",
@@ -55,11 +49,13 @@ kaggle_path = 'images/kaggle.png'
 kaggle_link = "https://www.kaggle.com/tommasoramella"
 kaggle = get_img_with_href(kaggle_path, kaggle_link, width=40, height=40)
 
+st.title("WELCOME TO MY PORTFOLIO")
+st.write("_______________________")
 col0, col1, col2, col3 = st.columns([6, 3, 3, 3], gap="medium")
 with col0:
-    st.title(NAME)
-    st.write(DESCRIPTION)
-    st.markdown(f"Email: {EMAIL}")
+    st.title("Tommaso Ramella")
+    st.markdown("#### Data scientist & postdoctoral researcher in economics")
+    st.write("Email: tommaso.ramella90@gmail.com")
     st.write("My curriculum:", "[here](https://tommella90-digital-cv-app-w845um.streamlit.app/)")
 
 with col1:
@@ -120,22 +116,26 @@ st.write("_______________________")
 col1, col2 = st.columns([5, 5], gap="large")
 with col1:
     st.markdown("## ROCK SCISSOR PAPER RECOGNITION")
-    st.markdown("Hand recognition with Mediapipe")
+    st.markdown("#### Hand recognition with Mediapipe")
+    st.markdown("Mediapipe, OpenCV, Deep Learning")
     st.markdown(rsp, unsafe_allow_html=True)
 with col2:
     st.markdown("## HOUSING DATASET - WEB-SCPRAPING")
-    st.markdown("I build a dataset of italian houses with Beautiful Soup")
+    st.markdown("#### I build a dataset of italian houses with Beautiful Soup")
+    st.markdown("Web scraping, data cleaning, pipelining, docker")
     st.markdown(housing, unsafe_allow_html=True)
 
 st.write("_______________________")
 col1, col2 = st.columns([5, 5], gap="large")
 with col1:
     st.markdown("## SONG RECOMMENDER APP")
-    st.markdown("Song reccomendation with K-mean clustering and Spotify API")
+    st.markdown("#### Song reccomendation with K-mean clustering and Spotify API")
+    st.markdown("Clustering, API, Streamlit")
     st.markdown(spotify, unsafe_allow_html=True)
 with col2:
     st.markdown("## GRADIENT DESCENT - 3D")
-    st.markdown("I used Touchdesigner to create a 3D visualization of the gradient descent alghoritm")
+    st.markdown("#### I used Touchdesigner to create a 3D visualization of the gradient descent alghoritm")
+    st.markdown("3D visualization, Touchdesigner, Gradient descent")
     st.markdown(gd, unsafe_allow_html=True)
 
 
