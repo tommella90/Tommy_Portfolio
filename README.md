@@ -16,6 +16,14 @@ https://user-images.githubusercontent.com/66441052/217084150-5c4615cd-ceb6-4b20-
 [<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition)
 
 ____________________________
+## 2) ITALY HOUSE ANNOUNCEMENT - WEBSCRAPING 
+I use web scraping with Beautiful Soup to extract data from house announcement in Italy. 
+
+**Github repo here**:
+
+[<img src="https://github.com/tommella90/SongRecommender/blob/main/img/git.png" width="100" height="100">](https://github.com/tommella90/italy-house-pricing)
+
+____________________________
 ## 2) SONG RECOMMENDER WITH SPOTIPY API
 I use unsupervised machine learning to create a song recommendation system with Spotify    
 #
